@@ -36,5 +36,7 @@ O exemplo de output está [neste arquivo](https://github.com/idwall/desafios/blo
 
 ### Resposta
 
-- Execução: python3 strings_parte1.py
+- Execução: 
+            python3 strings_parte1.py
+            
             python3 strings_parte2.py
